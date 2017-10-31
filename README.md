@@ -13,7 +13,7 @@ Scripting Runtime Version: .NET 4.6
 ### 1. Introduction & Setup
 
 - [x] 01. Introduction to 2D UFO Project
-- [ ] 02. Setting Up The Play Field
+- [x] 02. Setting Up The Play Field
 
 ### 2. Movement Basics
 
