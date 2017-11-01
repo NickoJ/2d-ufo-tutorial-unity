@@ -17,7 +17,7 @@ Scripting Runtime Version: .NET 4.6
 
 ### 2. Movement Basics
 
-- [ ] 01. Controlling the Player
+- [x] 01. Controlling the Player
 - [ ] 02. Adding Collision
 - [ ] 03. Following the Player with the Camera
 
