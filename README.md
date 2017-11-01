@@ -19,7 +19,7 @@ Scripting Runtime Version: .NET 4.6
 
 - [x] 01. Controlling the Player
 - [x] 02. Adding Collision
-- [ ] 03. Following the Player with the Camera
+- [x] 03. Following the Player with the Camera
 
 ### 3. Collectable Objects
 
