@@ -29,4 +29,4 @@ Scripting Runtime Version: .NET 4.6
 
 ### 4. Creating a Playable Build
 
-- [ ] 01. Building our 2D UFO Game
+- [x] 01. Building our 2D UFO Game
