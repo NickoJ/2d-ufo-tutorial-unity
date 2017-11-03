@@ -24,7 +24,7 @@ Scripting Runtime Version: .NET 4.6
 ### 3. Collectable Objects
 
 - [x] 01. Creating Collectable Objects
-- [ ] 02. Picking Up Collectables
+- [x] 02. Picking Up Collectables
 - [ ] 03. Counting Collectables and Displaying Score
 
 ### 4. Creating a Playable Build
