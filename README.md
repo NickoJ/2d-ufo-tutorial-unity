@@ -23,10 +23,10 @@ Scripting Runtime Version: .NET 4.6
 
 ### 3. Collectable Objects
 
-- [ ] Creating Collectable Objects
-- [ ] Picking Up Collectables
-- [ ] Counting Collectables and Displaying Score
+- [x] 01. Creating Collectable Objects
+- [ ] 02. Picking Up Collectables
+- [ ] 03. Counting Collectables and Displaying Score
 
 ### 4. Creating a Playable Build
 
-- [ ] Building our 2D UFO Game
+- [ ] 01. Building our 2D UFO Game
